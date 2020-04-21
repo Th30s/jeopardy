@@ -18,8 +18,8 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [x] Add, commit, and push your changes
 
 ### JS
-- [ ] Create a component called Question
-- [ ] Call the question component in  App.js and have it display some text
+- [x] Create a component called Question
+- [x] Call the question component in  App.js and have it display some text
 - [ ] Update your images and styling with CSS
 
 
@@ -27,7 +27,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Push your changes!
 
 ## Day 2
-- [ ] Call multiple Question components in your app
+- [x] Call multiple Question components in your app
 - [ ] Add props to each  Question component including
 - questionText
 - answer
@@ -41,7 +41,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 
 ## Day 3
-- [ ] Add click function to your component
+- [x] Add click function to your component
 - [ ] When a user clicks on a question you should alert the question.
 - [ ] Use any additional time to style your component
 
