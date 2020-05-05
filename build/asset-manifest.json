@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jeopardy_sol/static/css/main.ab527c26.chunk.css",
-    "main.js": "/jeopardy_sol/static/js/main.a52f7fe6.chunk.js",
-    "main.js.map": "/jeopardy_sol/static/js/main.a52f7fe6.chunk.js.map",
+    "main.css": "/jeopardy_sol/static/css/main.82befaa4.chunk.css",
+    "main.js": "/jeopardy_sol/static/js/main.a7167868.chunk.js",
+    "main.js.map": "/jeopardy_sol/static/js/main.a7167868.chunk.js.map",
     "runtime-main.js": "/jeopardy_sol/static/js/runtime-main.9a9ee7f2.js",
     "runtime-main.js.map": "/jeopardy_sol/static/js/runtime-main.9a9ee7f2.js.map",
-    "static/js/2.9dab901d.chunk.js": "/jeopardy_sol/static/js/2.9dab901d.chunk.js",
-    "static/js/2.9dab901d.chunk.js.map": "/jeopardy_sol/static/js/2.9dab901d.chunk.js.map",
+    "static/js/2.c5c694df.chunk.js": "/jeopardy_sol/static/js/2.c5c694df.chunk.js",
+    "static/js/2.c5c694df.chunk.js.map": "/jeopardy_sol/static/js/2.c5c694df.chunk.js.map",
     "index.html": "/jeopardy_sol/index.html",
-    "precache-manifest.6522944619e00cf653ff2217d0115ce2.js": "/jeopardy_sol/precache-manifest.6522944619e00cf653ff2217d0115ce2.js",
+    "precache-manifest.e00fe813e027e34752b749d3a2fc16b1.js": "/jeopardy_sol/precache-manifest.e00fe813e027e34752b749d3a2fc16b1.js",
     "service-worker.js": "/jeopardy_sol/service-worker.js",
-    "static/css/main.ab527c26.chunk.css.map": "/jeopardy_sol/static/css/main.ab527c26.chunk.css.map",
-    "static/js/2.9dab901d.chunk.js.LICENSE.txt": "/jeopardy_sol/static/js/2.9dab901d.chunk.js.LICENSE.txt"
+    "static/css/main.82befaa4.chunk.css.map": "/jeopardy_sol/static/css/main.82befaa4.chunk.css.map",
+    "static/js/2.c5c694df.chunk.js.LICENSE.txt": "/jeopardy_sol/static/js/2.c5c694df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a9ee7f2.js",
-    "static/js/2.9dab901d.chunk.js",
-    "static/css/main.ab527c26.chunk.css",
-    "static/js/main.a52f7fe6.chunk.js"
+    "static/js/2.c5c694df.chunk.js",
+    "static/css/main.82befaa4.chunk.css",
+    "static/js/main.a7167868.chunk.js"
   ]
 }
